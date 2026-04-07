@@ -6,8 +6,6 @@ function App() {
   return (
     <div className="App">
       <>main branch</>
-
-
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
